@@ -1,14 +1,12 @@
 <h1 align="center">Hola 👋, soy Facundo</h1>
 <img src="./banner para github.png" alt="banner"/>
-<h3 align="center">Un apasionado desarrollador Front-End de Argentina</h3>
+<h3 align="center">Desarrollador Front-End de Argentina</h3>
 
 - 💬 Preguntame sobre: **Desarrollo web, Git, JavaScript**.
 
 - 🌱 Actualmente estoy aprendiendo la libreria React JS. Primer proyecto [e-commerce-arena](e-commerce-arena)
 
 - 📫 Contácteme en: **facundo-grodriguez@hotmail.com**
-
-- ⚡ Dato curioso: Estoy desarrollando una empresa de marketing y desarrollo con 2 amigas.
 
 <h3 align="left">Conectate conmigo:</h3>
 <p align="left">
