@@ -2,9 +2,7 @@
 <img src="./banner para github.png" alt="banner"/>
 <h3 align="center">Desarrollador Front-End de Argentina</h3>
 
-- 💬 Preguntame sobre: **Desarrollo web, Git, JavaScript**.
-
-- 🌱 Actualmente estoy aprendiendo la libreria React JS. Primer proyecto [e-commerce-arena](e-commerce-arena)
+- 💬 Preguntame sobre: **Desarrollo web, Git, JavaScript, React Js**.
 
 - 📫 Contácteme en: **facundo-grodriguez@hotmail.com**
 
